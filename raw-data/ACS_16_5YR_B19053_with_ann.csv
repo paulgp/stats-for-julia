@@ -1,0 +1,5 @@
+GEO.id,GEO.id2,GEO.display-label,HD01_VD01,HD02_VD01,HD01_VD02,HD02_VD02,HD01_VD03,HD02_VD03
+Id,Id2,Geography,Estimate; Total:,Margin of Error; Total:,Estimate; Total: - With self-employment income,Margin of Error; Total: - With self-employment income,Estimate; Total: - No self-employment income,Margin of Error; Total: - No self-employment income
+0400000US42,42,Pennsylvania,4961929,11212,447154,4074,4514775,10572
+0500000US42101,42101,"Philadelphia County, Pennsylvania",582594,2684,38284,1344,544310,2604
+1500000US421010144002,421010144002,"Block Group 2, Census Tract 144, Philadelphia County, Pennsylvania",645,93,140,59,505,101

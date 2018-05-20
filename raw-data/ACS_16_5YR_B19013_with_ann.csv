@@ -1,0 +1,5 @@
+GEO.id,GEO.id2,GEO.display-label,HD01_VD01,HD02_VD01
+Id,Id2,Geography,Estimate; Median household income in the past 12 months (in 2016 inflation-adjusted dollars),Margin of Error; Median household income in the past 12 months (in 2016 inflation-adjusted dollars)
+0400000US42,42,Pennsylvania,54895,185
+0500000US42101,42101,"Philadelphia County, Pennsylvania",39770,567
+1500000US421010144002,421010144002,"Block Group 2, Census Tract 144, Philadelphia County, Pennsylvania",60733,11757

@@ -1,0 +1,41 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HD01_VD01,Estimate; Total:
+HD02_VD01,Margin of Error; Total:
+HD01_VD02,Estimate; Enrolled in school:
+HD02_VD02,Margin of Error; Enrolled in school:
+HD01_VD03,"Estimate; Enrolled in school: - Enrolled in nursery school, preschool"
+HD02_VD03,"Margin of Error; Enrolled in school: - Enrolled in nursery school, preschool"
+HD01_VD04,Estimate; Enrolled in school: - Enrolled in kindergarten
+HD02_VD04,Margin of Error; Enrolled in school: - Enrolled in kindergarten
+HD01_VD05,Estimate; Enrolled in school: - Enrolled in grade 1
+HD02_VD05,Margin of Error; Enrolled in school: - Enrolled in grade 1
+HD01_VD06,Estimate; Enrolled in school: - Enrolled in grade 2
+HD02_VD06,Margin of Error; Enrolled in school: - Enrolled in grade 2
+HD01_VD07,Estimate; Enrolled in school: - Enrolled in grade 3
+HD02_VD07,Margin of Error; Enrolled in school: - Enrolled in grade 3
+HD01_VD08,Estimate; Enrolled in school: - Enrolled in grade 4
+HD02_VD08,Margin of Error; Enrolled in school: - Enrolled in grade 4
+HD01_VD09,Estimate; Enrolled in school: - Enrolled in grade 5
+HD02_VD09,Margin of Error; Enrolled in school: - Enrolled in grade 5
+HD01_VD10,Estimate; Enrolled in school: - Enrolled in grade 6
+HD02_VD10,Margin of Error; Enrolled in school: - Enrolled in grade 6
+HD01_VD11,Estimate; Enrolled in school: - Enrolled in grade 7
+HD02_VD11,Margin of Error; Enrolled in school: - Enrolled in grade 7
+HD01_VD12,Estimate; Enrolled in school: - Enrolled in grade 8
+HD02_VD12,Margin of Error; Enrolled in school: - Enrolled in grade 8
+HD01_VD13,Estimate; Enrolled in school: - Enrolled in grade 9
+HD02_VD13,Margin of Error; Enrolled in school: - Enrolled in grade 9
+HD01_VD14,Estimate; Enrolled in school: - Enrolled in grade 10
+HD02_VD14,Margin of Error; Enrolled in school: - Enrolled in grade 10
+HD01_VD15,Estimate; Enrolled in school: - Enrolled in grade 11
+HD02_VD15,Margin of Error; Enrolled in school: - Enrolled in grade 11
+HD01_VD16,Estimate; Enrolled in school: - Enrolled in grade 12
+HD02_VD16,Margin of Error; Enrolled in school: - Enrolled in grade 12
+HD01_VD17,"Estimate; Enrolled in school: - Enrolled in college, undergraduate years"
+HD02_VD17,"Margin of Error; Enrolled in school: - Enrolled in college, undergraduate years"
+HD01_VD18,Estimate; Enrolled in school: - Graduate or professional school
+HD02_VD18,Margin of Error; Enrolled in school: - Graduate or professional school
+HD01_VD19,Estimate; Not enrolled in school
+HD02_VD19,Margin of Error; Not enrolled in school
